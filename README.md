@@ -18,7 +18,7 @@ Users should be able to:
 
 ### Links
 
-- Live Site URL: [Add Page](https://thignvs.github.io/Creative-singlepage-site/)
+- Live Site URL: [Live Page](https://thignvs.github.io/Creative-singlepage-site/)
 
 
 ### Built with
