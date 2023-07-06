@@ -1,7 +1,5 @@
 import React from 'react'
 import heroimagemobile from '../mobile/image-hero.jpg'
-import heroimagetablet from '../tablet/image-hero.jpg'
-import heroimagedesktop from '../desktop/image-hero.jpg'
 import LearnMore from './buttons/LearnMore'
 
 const Hero = () => {

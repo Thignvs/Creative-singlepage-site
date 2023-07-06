@@ -5,14 +5,7 @@ import Hero from "./assets/components/Hero"
 import NavBar from "./assets/components/NavBar"
 import Strategic from "./assets/components/Strategic"
 
-
-
-
-
-
 function App() {
-
-
   return (
     <>
       <header>

@@ -32,8 +32,8 @@ export default {
     },
     extend: {
       backgroundImage: {
-        'heroBgTablet': 'url("src/assets/tablet/image-hero.jpg")',
-        'heroBgDesktop': 'url("src/assets/desktop/image-hero.jpg")',
+        'heroBgTablet': 'url("/src/assets/tablet/image-hero.jpg")',
+        'heroBgDesktop': 'url("/src/assets/desktop/image-hero.jpg")',
       },
     },
   },
